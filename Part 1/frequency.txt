@@ -1,0 +1,25 @@
+Number Of Paragraphs: 1
+Total Sentences: 3
+Total Words: 23
+Total Characters in Word 1 in Sentence 1: 3
+Total Characters in Word 2 in Sentence 1: 3
+Total Characters in Word 3 in Sentence 1: 5
+Total Characters in Word 4 in Sentence 1: 2
+Total Characters in Word 5 in Sentence 1: 1
+Total Characters in Word 6 in Sentence 1: 9
+Total Characters in Word 7 in Sentence 1: 6
+Total Characters in Word 8 in Sentence 1: 8
+Total Characters in Word 9 in Sentence 1: 2
+Total Characters in Word 1 in Sentence 2: 4
+Total Characters in Word 2 in Sentence 2: 2
+Total Characters in Word 3 in Sentence 2: 5
+Total Characters in Word 4 in Sentence 2: 9
+Total Characters in Word 5 in Sentence 2: 2
+Total Characters in Word 6 in Sentence 2: 3
+Total Characters in Word 1 in Sentence 3: 9
+Total Characters in Word 2 in Sentence 3: 1
+Total Characters in Word 3 in Sentence 3: 2
+Total Characters in Word 4 in Sentence 3: 2
+Total Characters in Word 5 in Sentence 3: 3
+Total Characters in Word 6 in Sentence 3: 2
+Total Characters in Word 7 in Sentence 3: 2
